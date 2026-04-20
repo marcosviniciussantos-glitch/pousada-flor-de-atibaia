@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://pousadaflordeatibaia.vercel.app/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://pousadaflordeatibaia.vercel.app/images/hero-pousada.png</image:loc>
+      <image:title>Pousada Flor de Atibaia - Fachada</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pousadaflordeatibaia.vercel.app/images/quarto-casal.jpeg</image:loc>
+      <image:title>Quarto Casal Confort</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pousadaflordeatibaia.vercel.app/images/quarto-standard.png</image:loc>
+      <image:title>Quarto Standard</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pousadaflordeatibaia.vercel.app/images/quarto-familia.jpeg</image:loc>
+      <image:title>Quarto Família Premium</image:title>
+    </image:image>
+  </url>
+</urlset>

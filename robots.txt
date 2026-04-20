@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pousadaflordeatibaia.vercel.app/sitemap.xml
