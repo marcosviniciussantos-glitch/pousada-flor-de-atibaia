@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pousadaflordeatibaia.vercel.app/sitemap.xml
+Sitemap: https://www.flordeatibaiapousada.com/sitemap.xml
