@@ -1,0 +1,22 @@
+{
+  "name": "Pousada Flor de Atibaia",
+  "short_name": "Flor de Atibaia",
+  "description": "Pousada histórica no coração de Atibaia, SP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1025",
+  "theme_color": "#1a1025",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
