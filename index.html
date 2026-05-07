@@ -2463,6 +2463,9 @@ document.getElementById('btn-check').addEventListener('click', () => {
     `Podem confirmar a disponibilidade? Obrigado(a)!`
   ].join('\n');
 
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({ event: 'whatsapp_click' });
+
   window.open(`https://wa.me/5511986633412?text=${encodeURIComponent(msg)}`, '_blank');
 });
 
